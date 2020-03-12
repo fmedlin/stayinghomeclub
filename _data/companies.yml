@@ -1139,19 +1139,19 @@
   events: Restricted
   last_update: 2020-03-11
 
+- name: Sittercity
+  wfh: Encouraged
+  travel: Restricted
+  visitors: Restricted
+  events: Restricted
+  last_update: 2020-03-12
+
 - name: Slack
   wfh: Encouraged, Required in JP
   travel: Restricted
   visitors: "?"
   events: Restricted
   last_update: 2020-03-04
-
-- name: Slido
-  wfh: Encouraged
-  travel: Restricted
-  visitors: "?"
-  events: "?"
-  last_update: 2020-03-11
 
 - name: SoftServe
   wfh: Encouraged
